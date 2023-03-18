@@ -2,13 +2,17 @@
 
 <h2>About the project</h2>
 
-  <p><b>Fitness Anytime</b> provide a space for people to improve their physical fitness and overall health through regular exercise and physical activity.</p>
+  <p><b>Fitness Anytime</b> Create a space where individuals can enhance their physical well-being and promote better health by engaging in consistent physical activity and exercise.</p>
 
-👉 Live Demo: <a href='https://Fitness Anytime-stefvndev.vercel.app/'>Fitness Anytime Demo</a>
+👉 Live link for the website: <a href='https://portfolio-fitness-website.vercel.app/'>Link</a>
 
 <h3>Build with:</h3>
 
 » Tailwind CSS <br>
+» HTML <br>
+» CSS <br>
+» JavaScript <br>
+» Firebase<br>
 » React JS
 
 <h2>Screenshots of the Project 📸</h2>
