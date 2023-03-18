@@ -17,10 +17,7 @@ function Login() {
               We are here for help you! To Shape Your Body.
             </h2>
             <p className="text-[16px] w-[95%] text-[#646464] font-medium my-[40px]">
-              At GetFit, we are dedicated to helping you achieve the body of
-              your dreams. Our expert trainers and nutritionists will work with
-              you to create a personalized fitness and nutrition plan that helps
-              you reach your specific goals.
+              At Anytime Fitness, we are committed to assisting you in attaining your ideal body. Our proficient trainers and nutritionists collaborate with you to devise a customized fitness and nutrition regimen tailored to your specific needs, enabling you to achieve your desired goals.
             </p>
             <div className="grid grid-cols-2 grid-rows-2 gap-y-20 min620:grid-cols-1 min620:mx-auto">
               <div className="flex flex-col relative">
