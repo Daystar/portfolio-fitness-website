@@ -32,7 +32,7 @@
         x="38" y="32.1" textLength="123.7" fill="rgb(21, 11, 11)">
         Fitness
     </text>
-    <g fill="rgb(53, 50, 50)"> <text fill="rgb(190, 190, 190)" transform="matrix(1,0,0,1.3,-5.4,-8.6)"
+    <g fill="rgb(53, 50, 50)"> <text fill="rgb(100, 100, 100)" transform="matrix(1,0,0,1.3,-5.4,-8.6)"
             font-family="Arial" font-size="15.9" font-style="normal" font-weight="normal" x="48.3" y="45.4"
             textLength="100.3">
             Anytime
