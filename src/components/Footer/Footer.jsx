@@ -19,18 +19,18 @@ function Footer() {
                   style={{ transition: "all 0.3s" }}
                   className="fa-brands fa-linkedin-in bg-[#efefef] p-4 rounded-full px-[11.5px] hover:bg-[#ff0366] hover:text-white"
                 ></i></a>
-                <i
+                <a href="https://twitter.com/Sagar33732459" target="_blank" rel="norefferrer"> <i
                   style={{ transition: "all 0.3s" }}
                   className="fa-brands fa-twitter bg-[#efefef] p-4 rounded-full  hover:bg-[#ff0366] hover:text-white"
-                ></i>
-                <i
+                ></i></a>
+                <a href="https://github.com/Daystar" target="_blank" rel="norefferrer"><i
                   style={{ transition: "all 0.3s" }}
                   className="fa-brands fa-github bg-[#efefef] p-4 rounded-full px-[11.5px] hover:bg-[#ff0366] hover:text-white"
-                ></i>
-                <i
+                ></i></a>
+                <a href="https://www.youtube.com/@daystar_bob" target="_blank" rel="norefferrer">  <i
                   style={{ transition: "all 0.3s" }}
                   className="fa-brands fa-youtube bg-[#efefef] p-4 rounded-full hover:bg-[#ff0366] hover:text-white"
-                ></i>
+                ></i></a>
               </div>
               <p className="text-[16px] font-medium text-[#646464]">
                 Privacy Policy | © 2023 GetFit
