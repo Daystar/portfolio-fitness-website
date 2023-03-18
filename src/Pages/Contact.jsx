@@ -53,10 +53,16 @@ function Login() {
                 <h3 className="text-[2rem] font-bold mb-10">Follow Us On</h3>
                 <span className="bg-[#ff0336] w-[50px] h-[4px] absolute top-[33px]"></span>
                 <div className="text-[18px] font-medium text-black flex gap-5">
-                  <i className="fa-brands fa-facebook-f px-[16px] py-[13px] bg-[#f4f4f4] rounded-full cursor-pointer hover:bg-[#ff0336] ease-in duration-200 hover:text-white"></i>
-                  <i className="fa-brands fa-twitter p-[13.5px] bg-[#f4f4f4] rounded-full cursor-pointer hover:bg-[#ff0336] ease-in duration-200 hover:text-white"></i>
-                  <i className="fa-brands fa-instagram p-[13.5px] bg-[#f4f4f4] rounded-full cursor-pointer hover:bg-[#ff0336] ease-in duration-200 hover:text-white"></i>
-                  <i className="fa-brands fa-pinterest-p p-[13.5px] bg-[#f4f4f4] rounded-full cursor-pointer hover:bg-[#ff0336] ease-in duration-200 hover:text-white"></i>
+                  <a href="https://www.linkedin.com/in/sagar-koli/" target="_blank" rel="noreferrer" ><i className="fa-brands fa-linkedin px-[16px] py-[13px] bg-[#f4f4f4] rounded-full cursor-pointer hover:bg-[#ff0336] ease-in duration-200 hover:text-white"></i>
+                  </a>
+                  <a href="https://github.com/Daystar" target="_blank" rel="noreferrer" ><i className="fa-brands fa-github px-[16px] py-[13.5px] bg-[#f4f4f4] rounded-full cursor-pointer hover:bg-[#ff0336] ease-in duration-200 hover:text-white"></i>
+                  </a>
+
+                  <a href="https://www.twitch.tv/daystar_bob" target="_blank" rel="noreferrer" ><i className="fa-brands fa-twitch px-[16px] py-[13.5px] bg-[#f4f4f4] rounded-full cursor-pointer hover:bg-[#ff0336] ease-in duration-200 hover:text-white"></i>
+                  </a>
+                  <a href="https://www.youtube.com/@daystar_bob" target="_blank" rel="noreferrer" ><i className="fa-brands fa-youtube px-[16px] py-[13.5px] bg-[#f4f4f4] rounded-full cursor-pointer hover:bg-[#ff0336] ease-in duration-200 hover:text-white"></i>
+                  </a>
+
                 </div>
               </div>
             </div>
