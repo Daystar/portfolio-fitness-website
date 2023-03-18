@@ -63,21 +63,21 @@
 <h3 align='center'>Pricing Page 👇</h3>
 
 <div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/213879240-a164e827-f8ac-4248-a294-a620f9c530d7.png'/>
+<img src='https://github.com/Daystar/portfolio-fitness-website/blob/main/public/pricing.png'/>
 </div>
 <br>
 <br>
 <h3 align='center'>Login Page 👇</h3>
 
 <div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/213879261-c4f4596c-0836-49b1-baa3-9abad0501486.png'/>
+<img src='https://github.com/Daystar/portfolio-fitness-website/blob/main/public/login.png'/>
 </div>
 <br>
 <br>
 <h3 align='center'>About Page 👇</h3>
 
 <div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/213912643-6deef1ff-505d-4d21-8a96-88be2fee242a.png'/>
+<img src='https://github.com/Daystar/portfolio-fitness-website/blob/main/public/about.png'/>
 </div>
 <br>
 <br>
