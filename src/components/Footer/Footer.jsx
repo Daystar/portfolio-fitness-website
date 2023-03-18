@@ -11,9 +11,7 @@ function Footer() {
             <div className="flex flex-col w-1/3 gap-8">
               <img src={FooterLogo} alt="footer_logo" className="w-[18rem]" />
               <p className="text-[15px] font-medium text-[#646464]">
-                Take your health and body to the next level with our
-                comprehensive program designed to help you reach your fitness
-                goals.
+                Elevate your health and transform your physique with our all-inclusive program meticulously crafted to help you attain your fitness objectives.
               </p>
               {/* socials */}
               <div className="flex gap-7 text-[18px] text-[#646464] min540:justify-center">
@@ -72,11 +70,11 @@ function Footer() {
                 Monday - Friday:
               </p>
               <p className="text-[16px] text-[#646464] font-medium">
-                7:00am - 21:00pm
+                7:00am - 9:00pm
               </p>
               <p className="text-[16px] text-[#646464] font-bold">Saturday:</p>
               <p className="text-[16px] text-[#646464] font-medium">
-                7:00am - 19:00pm
+                7:00am - 7:00pm
               </p>
               <p className="text-[16px] text-[#646464] font-bold ">
                 Sunday - Closed
