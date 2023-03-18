@@ -14,20 +14,20 @@ function Login() {
           {/* first col */}
           <div className="md1000:w-[60%] md1000:flex md1000:flex-col md1000:mx-auto min800:w-[90%] min620:w-full">
             <h2 className="text-black text-[36px] font-bold leading-[1.2]">
-              We are here for help you! To Shape Your Body.
+              Our goal is to assist you in shaping your body and achieving your desired physique.
             </h2>
             <p className="text-[16px] w-[95%] text-[#646464] font-medium my-[40px]">
-              At Anytime Fitness, we are committed to assisting you in attaining your ideal body. Our proficient trainers and nutritionists collaborate with you to devise a customized fitness and nutrition regimen tailored to your specific needs, enabling you to achieve your desired goals.
+              At Fitness Anytime, we are committed to assisting you in attaining your ideal body. Our proficient trainers and nutritionists collaborate with you to devise a customized fitness and nutrition regimen tailored to your specific needs, enabling you to achieve your desired goals.
             </p>
             <div className="grid grid-cols-2 grid-rows-2 gap-y-20 min620:grid-cols-1 min620:mx-auto">
               <div className="flex flex-col relative">
                 <h3 className="text-[2rem] font-bold mb-10">
-                  New York City, USA
+                  New Delhi, India
                 </h3>
                 <span className="bg-[#ff0336] w-[50px] h-[4px] absolute top-[33px]"></span>
                 <p className="text-[15px] font-medium text-[#646464]">
-                  85 Briston Mint Street,
-                  <br /> London, E1 8LG, USA
+                  Khanna GT road,
+                  <br /> New Delhi, Delhi, India
                 </p>
               </div>
               {/*  */}
