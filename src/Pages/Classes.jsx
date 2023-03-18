@@ -27,65 +27,63 @@ function Classes() {
 
         {/* boxes 1*/}
         <div
-          className={`container gap-12 page-padding py-[10rem] md1000:grid-cols-2 min620:grid-cols-1  grid-cols-3 grid-rows-3 text-left ${
-            load ? "grid" : "hidden"
-          }`}
+          className={`container gap-12 page-padding py-[10rem] md1000:grid-cols-2 min620:grid-cols-1  grid-cols-3 grid-rows-3 text-left ${load ? "grid" : "hidden"
+            }`}
         >
           <ClassesBox
             bgImg="cycling-bg"
             title="Cycling"
-            trainer="Dorian Yate"
+            trainer="Marianne Vos"
             date="Wed: 9:00 am"
           />
           <ClassesBox
             bgImg="meditaion-bg"
             title="Meditation"
-            trainer="Maria Mich"
+            trainer="Susan Piver"
             date="Fri: 1:00 pm"
           />
           <ClassesBox
             bgImg="mma-bg"
             title="Boxing"
-            trainer="John Flex"
+            trainer="Oleksandr Usyk"
             date="Tue: 4:00 pm"
           />
           <ClassesBox
             bgImg="karate-bg"
             title="Karate"
-            trainer="David Rich"
+            trainer="Ryo Kiyuna"
             date="Sat: 9:00 am"
           />
           <ClassesBox
             bgImg="powerlift-bg"
             title="Power Lifting"
-            trainer="Larry Wheels"
+            trainer="Charles Okpoko"
             date="Mon: 8:00 pm"
           />
           <ClassesBox
             bgImg="workout-bg"
             title="Workout"
-            trainer="Shawn Ray"
+            trainer="Jake Steinfeld"
             date="Sun: 10:00 am"
           />
           <ClassesBox
             bgImg="crossfit-bg"
             title="Crossfit"
-            trainer="Jenifer Alex"
-            date="Wen: 9:00 pm"
+            trainer="Tia-Clair Toomey"
+            date="Wed: 9:00 pm"
           />
           <ClassesBox
             bgImg="running-bg"
             title="Running"
-            trainer="Zinia Zessy"
+            trainer="Amlan Borgohain"
             date="Fri: 6:00 am"
           />
         </div>
 
         {/* boxes 2*/}
         <div
-          className={`container gap-12 page-padding py-[10rem] grid-cols-3 md1000:grid-cols-2 min620:grid-cols-1  grid-rows-3 text-left  ${
-            load ? "hidden" : "grid"
-          }`}
+          className={`container gap-12 page-padding py-[10rem] grid-cols-3 md1000:grid-cols-2 min620:grid-cols-1  grid-rows-3 text-left  ${load ? "hidden" : "grid"
+            }`}
         >
           <ClassesBox
             bgImg="cycling-bg"
