@@ -20,7 +20,7 @@
 <h3 align='center'>Home Page 🏡</h3>
 
 <div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/213878710-5662b56b-fc14-43cc-b038-70c21abb2e5f.png'/>
+<img src='https://github.com/Daystar/portfolio-fitness-website/blob/main/public/home.png'/>
 
 </div>
 
@@ -28,14 +28,14 @@
 <h3 align='center'>Classes Page 👇</h3>
 
 <div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/213878977-d98a7725-d615-48ed-b91d-5ebf7a6b049c.png'/>
+<img src='https://github.com/Daystar/portfolio-fitness-website/blob/main/public/classes.png'/>
 </div>
 <br>
 <br>
 <h3 align='center'>Blog Page 👇</h3>
 
 <div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/213879015-82a90c2a-98a7-4add-8f72-d29b9388a27f.png'/>
+<img src='https://github.com/Daystar/portfolio-fitness-website/blob/main/public/blog.png'/>
 </div>
 <br>
 <br>
