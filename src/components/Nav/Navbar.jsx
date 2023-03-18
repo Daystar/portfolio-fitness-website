@@ -240,13 +240,13 @@ function Navbar() {
                   <h3 className="text-[2rem] font-bold">Follow Us</h3>
                   <div className="flex gap-5">
                     <span className="bg-[#ff0336] rounded-full py-[12px] px-[17px] cursor-pointer">
-                      <i className="fa-brands fa-facebook-f text-[2.2rem] text-white"></i>
+                      <a href="https://www.linkedin.com/in/sagar-koli/" target="_blank" rel="norefferrer"><i className="fa-brands fa-linkedin-in text-[2.2rem] text-white"></i></a>
                     </span>
                     <span className="bg-[#ff0336] rounded-full py-[12px] px-[12px] cursor-pointer">
-                      <i className="fa-brands fa-twitter text-[2.2rem] text-white"></i>
+                      <a href="https://www.youtube.com/@daystar_bob" target="_blank" rel="norefferrer" > <i className="fa-brands fa-youtube text-[2.2rem] text-white"></i></a>
                     </span>
-                    <span className="bg-[#ff0336] rounded-full py-[10px] px-[13px] cursor-pointer">
-                      <i className="fa-brands fa-instagram text-[2.2rem] text-white"></i>
+                    <span className="bg-[#ff0336] rounded-full py-[12px] px-[13px] cursor-pointer">
+                      <a href="https://www.twitch.tv/daystar_bob" target="_blank" rel="norefferrer"><i className="fa-brands fa-twitch text-[2.2rem] text-white"></i></a>
                     </span>
                   </div>
                 </div>
