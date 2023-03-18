@@ -42,21 +42,21 @@
 <h3 align='center'>Schedule Page 👇</h3>
 
 <div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/213879131-4bf389d9-57cc-4b5d-9d50-ea62b35862d9.png'/>
+<img src='https://github.com/Daystar/portfolio-fitness-website/blob/main/public/schedule.png'/>
 </div>
 <br>
 <br>
 <h3 align='center'>Contact Page 👇</h3>
 
 <div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/213879186-756e8df8-ca2f-4330-b238-0849c9e6ca33.png'/>
+<img src='https://github.com/Daystar/portfolio-fitness-website/blob/main/public/contact.png'/>
 </div>
 <br>
 <br>
 <h3 align='center'>Gallery Page 👇</h3>
 
 <div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/213879218-7c49d152-b229-4b9a-8f89-5f3ab7fa8e67.png'/>
+<img src='https://github.com/Daystar/portfolio-fitness-website/blob/main/public/gallery.png'/>
 </div>
 <br>
 <br>
