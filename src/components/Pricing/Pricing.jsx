@@ -28,7 +28,7 @@ function Pricing() {
               Exclusive Pricing Plan
             </h2>
             <p className="text-[#646464] font-medium text-[15px] ">
-              Gymat an unknown printer took a galley of type and scrambled
+              Fitness Anytime an unknown printer took a galley of type and scrambled
               <br /> make a type specimen book.
             </p>
           </div>

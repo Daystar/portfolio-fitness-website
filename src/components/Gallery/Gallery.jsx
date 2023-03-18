@@ -15,7 +15,7 @@ function Gallery() {
           {/* title div -- */}
           <div className="flex flex-col text-center relative items-center ">
             <p className="text-white relative z-10 text-[15px] uppercase font-bold mb-10">
-              GYMAT GALLERY
+              Fitness Anytime GALLERY
             </p>
             <img
               src={TitleRed}

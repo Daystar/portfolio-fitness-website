@@ -234,8 +234,8 @@ function Blog() {
             </div>
             {/* banner */}
             <div className="blog-banner w-full h-[56rem] relative">
-              <p className="absolute text-[34px] font-bold uppercase top-16 left-10 z-[2]">
-                gymat
+              <p className="absolute text-[34px] font-bold uppercase top-16 left-8 z-[2]">
+                DayStar
               </p>
               <span className="banner-shape top-14 left-0 z-[1] bg-white absolute w-[18rem] h-[60px]"></span>
               <div className="text-white flex flex-col absolute top-[10rem] left-10">

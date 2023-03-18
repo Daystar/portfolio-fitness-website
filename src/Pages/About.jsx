@@ -36,10 +36,7 @@ function About() {
                 We Will Give You Strength and Health
               </h2>
               <p className="text-[#646464] font-medium text-[15px] max-w-[50rem] ">
-                At GetFit, we are dedicated to helping you achieve the body of
-                your dreams. Our expert trainers and nutritionists will work
-                with you to create a personalized fitness and nutrition plan
-                that helps you reach your specific goals.
+                At Fitness Anytime, We are committed to assisting you in achieving the body you desire. Our team of expert trainers and nutritionists will collaborate with you to design a customized fitness and nutrition program that is tailored to your specific objectives.
               </p>
               <MainButton
                 color={`!text-white`}

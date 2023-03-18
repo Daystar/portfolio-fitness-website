@@ -45,7 +45,7 @@ function Login() {
                 <span className="bg-[#ff0336] w-[50px] h-[4px] absolute top-[33px]"></span>
                 <div className="text-[15px] font-medium text-[#646464]">
                   <p>+123-456-7890</p>
-                  <p>&nbsp; getfit@gmail.com</p>
+                  <p>&nbsp; FitnessAnytime@gmail.coml.com</p>
                 </div>
               </div>
               {/*  */}

@@ -19,7 +19,7 @@ function Blog() {
 
             <h2 className="text-[3.4rem] font-bold mb-4">Our Recent News</h2>
             <p className="text-[#646464] font-medium text-[15px] ">
-              Gymat an unknown printer took a galley of type and scrambled
+              Fitness Anytime an unknown printer took a galley of type and scrambled
               <br /> make a type specimen book.
             </p>
           </div>

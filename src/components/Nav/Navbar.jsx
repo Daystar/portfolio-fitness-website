@@ -180,10 +180,7 @@ function Navbar() {
                 <div className="flex flex-col gap-6">
                   <h3 className="text-[2rem] font-bold">About Us</h3>
                   <p className="text-[1.6rem] font-medium text-[#000000b1]">
-                    Find out who we are and what makes us unique. We are a
-                    community-driven gym committed to providing personalized
-                    fitness experiences for all levels of fitness enthusiasts in
-                    a welcoming and supportive environment.
+                    Discover our identity and what sets us apart. We are a gym centered around community, dedicated to offering individualized fitness experiences for individuals at all levels of fitness in an inviting and encouraging atmosphere.
                   </p>
                 </div>
                 {/* gallery */}
@@ -235,7 +232,7 @@ function Navbar() {
                   </p>
                   <p className="text-[1.6rem] font-medium text-[#000000b1] hover:text-[#ff0336] cursor-pointer ease-in duration-200">
                     <i className="fa-solid fa-envelope text-[#ff0336]"></i>
-                    &nbsp; GetFit@gmail.com
+                    &nbsp; FitnessAnytime@gmail.coml.com
                   </p>
                 </div>
                 {/* follow us */}
