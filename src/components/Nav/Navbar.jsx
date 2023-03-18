@@ -224,11 +224,11 @@ function Navbar() {
                   <h3 className="text-[2rem] font-bold">Contact Info</h3>
                   <p className="text-[1.6rem] font-medium text-[#000000b1] hover:text-[#ff0336] cursor-pointer ease-in duration-200">
                     <i className="fa-solid fa-location-dot text-[#ff0336]"></i>
-                    &nbsp; 59 Street, House Newyork City
+                    &nbsp; Khanna GT road, New Delhi, India
                   </p>
                   <p className="text-[1.6rem] font-medium text-[#000000b1] hover:text-[#ff0336] cursor-pointer ease-in duration-200">
                     <i className="fa-solid fa-phone text-[#ff0336]"></i>&nbsp;
-                    +123-678800090
+                    +123-4567890
                   </p>
                   <p className="text-[1.6rem] font-medium text-[#000000b1] hover:text-[#ff0336] cursor-pointer ease-in duration-200">
                     <i className="fa-solid fa-envelope text-[#ff0336]"></i>
