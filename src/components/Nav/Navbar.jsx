@@ -235,7 +235,7 @@ function Navbar() {
                   </p>
                   <p className="text-[1.6rem] font-medium text-[#000000b1] hover:text-[#ff0336] cursor-pointer ease-in duration-200">
                     <i className="fa-solid fa-envelope text-[#ff0336]"></i>
-                    &nbsp; GetFit@gymail.com
+                    &nbsp; GetFit@gmail.com
                   </p>
                 </div>
                 {/* follow us */}

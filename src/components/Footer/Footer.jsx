@@ -35,7 +35,7 @@ function Footer() {
                 ></i>
               </div>
               <p className="text-[16px] font-medium text-[#646464]">
-                Privacy Policy | © 2023 Gymat
+                Privacy Policy | © 2023 GetFit
               </p>
             </div>
 
