@@ -15,17 +15,17 @@ function Footer() {
               </p>
               {/* socials */}
               <div className="flex gap-7 text-[18px] text-[#646464] min540:justify-center">
+                <a href="https://www.linkedin.com/in/sagar-koli/" target="_blank" rel="norefferrer">  <i
+                  style={{ transition: "all 0.3s" }}
+                  className="fa-brands fa-linkedin-in bg-[#efefef] p-4 rounded-full px-[11.5px] hover:bg-[#ff0366] hover:text-white"
+                ></i></a>
                 <i
                   style={{ transition: "all 0.3s" }}
-                  className="fa-brands fa-facebook-f bg-[#efefef] p-4 rounded-full px-[14px] hover:bg-[#ff0366] hover:text-white"
+                  className="fa-brands fa-twitter bg-[#efefef] p-4 rounded-full  hover:bg-[#ff0366] hover:text-white"
                 ></i>
                 <i
                   style={{ transition: "all 0.3s" }}
-                  className="fa-brands fa-twitter bg-[#efefef] p-4 rounded-full hover:bg-[#ff0366] hover:text-white"
-                ></i>
-                <i
-                  style={{ transition: "all 0.3s" }}
-                  className="fa-brands fa-pinterest-p bg-[#efefef] p-4 rounded-full px-[14px] hover:bg-[#ff0366] hover:text-white"
+                  className="fa-brands fa-github bg-[#efefef] p-4 rounded-full px-[11.5px] hover:bg-[#ff0366] hover:text-white"
                 ></i>
                 <i
                   style={{ transition: "all 0.3s" }}
