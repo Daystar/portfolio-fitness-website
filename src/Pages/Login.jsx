@@ -75,7 +75,7 @@ function Login() {
               Sign In
             </button>
             <div className="flex gap-4 items-center mt-16 min450:flex-col">
-              <p className="text-white text-[1.5rem]">New to GetFit?</p>
+              <p className="text-white text-[1.5rem]">New to Fitness Anytime?</p>
               <Link
                 to="/signup"
                 className="text-[#ff0336] font-bold text-[1.5rem]"

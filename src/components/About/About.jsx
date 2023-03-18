@@ -35,12 +35,10 @@ function About() {
                 className="w-[31%] absolute -top-[6px] md1000:w-[22rem]"
               />
               <h2 className="text-[35px] font-bold leading-tight mb-6 w-[60rem] min800:w-[100%]">
-                Take Your Health And Body To Next Level
+                Take Your Health And Body To The Next Level
               </h2>
               <p className="text-[16px] text-[#646464] font-medium ">
-                Take your health and body to the next level with our
-                comprehensive program designed to help you reach your fitness
-                goals.
+                Improve your health and body with our program designed to help you achieve your fitness goals.
               </p>
               {/* about text icons */}
               <div className="flex mt-12 mb-[7rem] gap-[2px] min620:flex-col ">

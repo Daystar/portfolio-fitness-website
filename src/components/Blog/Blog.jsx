@@ -30,19 +30,19 @@ function Blog() {
               bgClass="box1Bg"
               date="22.03.2022"
               title="Yoga For Everyone in 2023"
-              description="This is program designed to make the practice of yoga beneficial for people of all ages, abilities, and backgrounds. "
+              description="Yoga has become an increasingly popular fitness activity and relaxation technique, accessible to people of all ages and abilities. As we enter 2022, yoga remains a versatile and holistic approach to wellness, offering benefits such as increased flexibility, stress reduction, and improved overall health. "
             />
             <BlogBox
               bgClass="box2Bg"
               date="13.09.2022"
               title="Getting Back Into CrossFit After Vacation"
-              description="Learn how to ease back into your CrossFit routine after a vacation with tips and strategies for success."
+              description="Returning to CrossFit after vacation can be challenging, but taking it slow and easing back into your routine is key. Start with a light workout and gradually increase intensity and volume. Focus on form and listen to your body to prevent injury."
             />
             <BlogBox
               bgClass="box3Bg"
               date="28.06.2022"
-              title="Meet Fitness Ambassador Grace"
-              description="Get to know Grace, a fitness enthusiast and dedicated ambassador who is passionate about helping others reach their fitness goals."
+              title="Meet Fitness Ambassador Anny"
+              description="She is a fitness ambassador who inspires and motivates others to prioritize their health & fitness. With a background in dance & fitness, she leads by example through her dedication to an active lifestyle. She believes in the power of fitness to improve both physical & mental well-being."
             />
           </div>
         </div>

@@ -15,7 +15,7 @@ function Hero() {
            absolute hero-text min800:items-center min800:-right-[22rem] min620:-right-[20rem] min800:w-[80%] min540:-right-[17rem] min450:-right-[14rem] min375:-right-[11rem]"
           >
             <p className="text-black text-[16px] uppercase font-medium relative z-10 pl-16 min800:pl-0 mb-8">
-              find your energy
+              Find your Drive
             </p>
             <img
               src={TitleBg}
@@ -24,7 +24,7 @@ function Hero() {
             />
             <h1 className="font-bold text-[48px] uppercase mb-[4rem] min450:text-[40px]">
               make your body <br />
-              <span className="font-thin">fit & perfect</span>
+              <span className="font-thin">fit & healthy</span>
             </h1>
 
             <MainButton
@@ -43,9 +43,9 @@ function Hero() {
           <p className="uppercase  text-3xl font-bold tracking-widest">share</p>
           <span className="w-[35px] bg-[#FF0336] h-[2.5px] mr-6"></span>
           <div className="text-white gap-7 flex mr-7 ">
-            <i className="fa-brands rotate-90 hover:text-[#FF0336] fa-facebook text-3xl cursor-pointer ease-in duration-200 "></i>
-            <i className="fa-brands rotate-90 hover:text-[#FF0336] fa-twitter text-3xl cursor-pointer ease-in duration-200"></i>
-            <i className="fa-brands rotate-90 hover:text-[#FF0336]  fa-linkedin-in text-3xl cursor-pointer ease-in duration-200 "></i>
+            <a href="https://www.facebook.com/" target="_blank" rel="norefferrer" ><i className="fa-brands rotate-90 hover:text-[#FF0336]  fa-facebook-f text-3xl cursor-pointer ease-in duration-200 "></i></a>
+            <a href="https://twitter.com/Sagar33732459" target="_blank" rel="norefferrer" ><i className="fa-brands rotate-90 hover:text-[#FF0336] fa-twitter text-3xl cursor-pointer ease-in duration-200"></i></a>
+            <a href="https://www.linkedin.com/in/sagar-koli/" target="_blank" rel="norefferrer"><i className="fa-brands rotate-90 hover:text-[#FF0336] fa-linkedin-in text-3xl cursor-pointer ease-in duration-200 "></i></a>
           </div>
         </div>
       </section>

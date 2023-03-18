@@ -33,7 +33,7 @@ function Footer() {
                 ></i></a>
               </div>
               <p className="text-[16px] font-medium text-[#646464]">
-                Privacy Policy | © 2023 GetFit
+                Privacy Policy | © 2023 Fitness Anytime
               </p>
             </div>
 

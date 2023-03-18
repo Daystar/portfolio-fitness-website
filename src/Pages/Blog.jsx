@@ -32,7 +32,7 @@ function Blog() {
               img={Img2}
               title="Getting Back Into CrossFit After Vacation"
             />
-            <BlogBox img={Img3} title="Meet Fitness Ambassador Grace" />
+            <BlogBox img={Img3} title="Meet Fitness Ambassador Anny" />
             <BlogBox img={Img4} title="The Best are European Materls Direct" />
             <BlogBox
               img={Img5}
@@ -157,7 +157,7 @@ function Blog() {
                       March 22, 2022
                     </p>
                     <p className="text-[16px] text-black hover:text-[#ff0336] ease-in duration-200 cursor-pointer font-bold">
-                      Meet Fitness Abassador Grace
+                      Meet Fitness Abassador Anny
                     </p>
                   </div>
                 </div>

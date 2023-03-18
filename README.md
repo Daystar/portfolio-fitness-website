@@ -2,9 +2,9 @@
 
 <h2>About the project</h2>
 
-  <p><b>GetFit</b> provide a space for people to improve their physical fitness and overall health through regular exercise and physical activity.</p>
+  <p><b>Fitness Anytime</b> provide a space for people to improve their physical fitness and overall health through regular exercise and physical activity.</p>
 
-👉 Live Demo: <a href='https://GetFit-stefvndev.vercel.app/'>GetFit Demo</a>
+👉 Live Demo: <a href='https://Fitness Anytime-stefvndev.vercel.app/'>Fitness Anytime Demo</a>
 
 <h3>Build with:</h3>
 
