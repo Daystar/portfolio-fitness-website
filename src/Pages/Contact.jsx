@@ -26,7 +26,7 @@ function Login() {
                 </h3>
                 <span className="bg-[#ff0336] w-[50px] h-[4px] absolute top-[33px]"></span>
                 <p className="text-[15px] font-medium text-[#646464]">
-                  Khanna GT road,
+                  Khanna GT road, Banglore, India
                   <br /> New Delhi, Delhi, India
                 </p>
               </div>
@@ -35,8 +35,8 @@ function Login() {
                 <h3 className="text-[2rem] font-bold mb-10">Opening Hours</h3>
                 <span className="bg-[#ff0336] w-[50px] h-[4px] absolute top-[33px]"></span>
                 <div className="text-[15px] font-medium text-[#646464]">
-                  <p>Mon to Fri: 7:30 am — 1:00 am</p>
-                  <p>Mon to Fri: 7:30 am — 1:00 am</p>
+                  <p>Mon to Fri: 7:30 am — 9:00 pm</p>
+                  <p>Mon to Fri: 7:30 am — 9:00 pm</p>
                 </div>
               </div>
               {/*  */}
@@ -44,8 +44,8 @@ function Login() {
                 <h3 className="text-[2rem] font-bold mb-10">Information</h3>
                 <span className="bg-[#ff0336] w-[50px] h-[4px] absolute top-[33px]"></span>
                 <div className="text-[15px] font-medium text-[#646464]">
-                  <p>+800-123-4567</p>
-                  <p>&nbsp; gymat@gymail.com</p>
+                  <p>+123-456-7890</p>
+                  <p>&nbsp; getfit@gmail.com</p>
                 </div>
               </div>
               {/*  */}
