@@ -6,11 +6,11 @@ function Footer() {
       <footer className="bg-white">
         <div className="container page-padding py-[10rem]">
           {/* footer div all */}
-          <div className="flex justify-between min620:flex-col min620:items-center min620:text-center min620:gap-[5rem] !text-left">
+          <div className="flex justify-between min620:flex-col  min620:items-center min620:text-center min620:gap-[10rem] !text-left">
             {/* logo side */}
-            <div className="flex flex-col w-1/3 gap-8">
-              <img src={FooterLogo} alt="footer_logo" className="w-[18rem]" />
-              <p className="text-[15px] font-medium text-[#646464]">
+            <div className="flex flex-col w-1/3  gap-8 min620:w-2/3 min620:gap-16 min620:items-center min620:text-center">
+              <img src={FooterLogo} alt="footer_logo" className="w-[18rem] min620:w-[25rem]" />
+              <p className="text-[15px] font-medium text-[#646464]  ">
                 Elevate your health and transform your physique with our all-inclusive program meticulously crafted to help you attain your fitness objectives.
               </p>
               {/* socials */}
