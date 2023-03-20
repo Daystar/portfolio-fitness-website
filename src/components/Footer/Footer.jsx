@@ -4,7 +4,7 @@ function Footer() {
   return (
     <>
       <footer className="bg-white">
-        <div className="container page-padding py-[10rem]">
+        <div className="container page-padding pt-[7rem] pb-[5rem]">
           {/* footer div all */}
           <div className="flex justify-between min620:flex-col  min620:items-center min620:text-center min620:gap-[10rem] !text-left">
             {/* logo side */}
@@ -14,7 +14,7 @@ function Footer() {
                 Elevate your health and transform your physique with our all-inclusive program meticulously crafted to help you attain your fitness objectives.
               </p>
               {/* socials */}
-              <div className="flex gap-7 text-[18px] text-[#646464] min540:justify-center">
+              <div className="flex gap-10 text-[18px] text-[#646464] min540:justify-center min540:mt-10">
                 <a href="https://www.linkedin.com/in/sagar-koli/" target="_blank" rel="norefferrer">  <i
                   style={{ transition: "all 0.3s" }}
                   className="fa-brands fa-linkedin-in bg-[#efefef] p-4 rounded-full px-[11.5px] hover:bg-[#ff0366] hover:text-white"
@@ -32,9 +32,6 @@ function Footer() {
                   className="fa-brands fa-youtube bg-[#efefef] p-4 rounded-full hover:bg-[#ff0366] hover:text-white"
                 ></i></a>
               </div>
-              <p className="text-[16px] font-medium text-[#646464]">
-                Privacy Policy | © 2023 Fitness Anytime
-              </p>
             </div>
 
             {/* middle div */}
@@ -84,6 +81,14 @@ function Footer() {
             {/* middle div */}
             <span></span>
           </div>
+        </div>
+        {/* bottom div */}
+        <div className="text-center bg-gray-500">
+          <p className="text-[16px] font-medium text-[#fffdfd] ">
+            Privacy Policy | © 2023 Fitness Anytime
+            
+          </p>
+
         </div>
       </footer>
     </>
