@@ -56,7 +56,7 @@
 <h3 align='center'>Gallery Page 👇</h3>
 
 <div align='center'>
-<img src='https://github.com/Daystar/portfolio-fitness-website/blob/main/public/gallery.png'/>
+<img src='https://github.com/Daystar/portfolio-fitness-website/blob/main/public/Gallery.png'/>
 </div>
 <br>
 <br>
