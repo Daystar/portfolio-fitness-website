@@ -44,7 +44,7 @@ function Hero() {
           <span className="w-[35px] bg-[#FF0336] h-[2.5px] mr-6"></span>
           <div className="text-white gap-7 flex mr-7 ">
             <a href="https://www.facebook.com/" target="_blank" rel="norefferrer" ><i className="fa-brands rotate-90 hover:text-[#FF0336]  fa-facebook-f text-3xl cursor-pointer ease-in duration-200 "></i></a>
-            <a href="https://twitter.com/Sagar33732459" target="_blank" rel="norefferrer" ><i className="fa-brands rotate-90 hover:text-[#FF0336] fa-twitter text-3xl cursor-pointer ease-in duration-200"></i></a>
+            {/* <a href="https://twitter.com/Sagar33732459" target="_blank" rel="norefferrer" ><i className="fa-brands rotate-90 hover:text-[#FF0336] fa-twitter text-3xl cursor-pointer ease-in duration-200"></i></a> */}
             <a href="https://www.linkedin.com/in/sagar-koli/" target="_blank" rel="norefferrer"><i className="fa-brands rotate-90 hover:text-[#FF0336] fa-linkedin-in text-3xl cursor-pointer ease-in duration-200 "></i></a>
           </div>
         </div>

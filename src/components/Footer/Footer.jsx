@@ -19,10 +19,10 @@ function Footer() {
                   style={{ transition: "all 0.3s" }}
                   className="fa-brands fa-linkedin-in bg-[#efefef] p-4 rounded-full px-[11.5px] hover:bg-[#ff0366] hover:text-white"
                 ></i></a>
-                <a href="https://twitter.com/Sagar33732459" target="_blank" rel="norefferrer"> <i
+                {/* <a href="https://twitter.com/Sagar33732459" target="_blank" rel="norefferrer"> <i
                   style={{ transition: "all 0.3s" }}
                   className="fa-brands fa-twitter bg-[#efefef] p-4 rounded-full  hover:bg-[#ff0366] hover:text-white"
-                ></i></a>
+                ></i></a> */}
                 <a href="https://github.com/Daystar" target="_blank" rel="norefferrer"><i
                   style={{ transition: "all 0.3s" }}
                   className="fa-brands fa-github bg-[#efefef] p-4 rounded-full px-[11.5px] hover:bg-[#ff0366] hover:text-white"
